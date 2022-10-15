@@ -122,9 +122,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## **Contact**
 
-Your Name - [@vittostack](https://twitter.com/vittostack) - vitto@alchemy.com
-
-Project Link: [https://github.com/eversmile12/create-web3-dapp](https://github.com/eversmile12/create-web3-dapp)
+Your Name - [@Dhanushdhaari](https://twitter.com/dhanushdhaarixp)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
